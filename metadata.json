@@ -1,0 +1,6 @@
+{
+  "name": "Target Focus Study",
+  "description": "An AI-powered academic routine planner, Pomodoro timer, mock tests tracker, question bank, and doubt solver app for Class 6 to 12 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
